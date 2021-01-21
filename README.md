@@ -6,3 +6,8 @@ Woof Woof:
 
 
 ![Woof Woof image](/woof.png)
+
+Clothes console output:
+
+
+![wear a jacket code image](/clothes.png)
